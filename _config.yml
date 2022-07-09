@@ -25,8 +25,8 @@ github_username:  andreicuceu
 # Build settings
 markdown: kramdown
 # theme: minima
-# theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack-starter-kit
+theme: jekyll-theme-hydejack
 plugins:
   - jekyll-feed
 

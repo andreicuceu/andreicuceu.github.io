@@ -37,7 +37,9 @@ markdown: kramdown
 
 kramdown:
   math_engine:         mathjax
-  math_engine_opts:    {}
+  math_engine_opts:
+    preview:           false
+    preview_as_code:   false
 
 # theme: minima
 remote_theme: hydecorp/hydejack

@@ -15,8 +15,18 @@
 # in the templates via {{ site.myvariable }}.
 title: Andrei Cuceu
 email: cuceu.1@osu.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  Website under construction
+description: "Research Fellow at CCAPP
+  <br>
+  Ohio State University"
+
+logo: /assets/AndreiCuceu.jpg
+
+menu:
+  - title: ABOUT
+    url: /#about
+  - title: SELECTED PUBLICATIONS
+    url: /#publications
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://andreicuceu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -24,6 +34,11 @@ github_username:  andreicuceu
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  math_engine:         mathjax
+  math_engine_opts:    {}
+
 # theme: minima
 remote_theme: hydecorp/hydejack
 # theme: jekyll-theme-hydejack

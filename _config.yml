@@ -48,6 +48,8 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
+accent_image: /assets/DESI.jpg
+
 #accent_image: /assets/img/sidebar-bg.jpg
 #accent_color: rgb(79,177,186)
 

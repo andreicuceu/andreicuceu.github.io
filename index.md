@@ -10,7 +10,7 @@ Hi, I'm Andrei, a postdoc at the Center for Cosmology and Astro-Particle Physics
 
 <h1 style="font-family:'Calibri Light';color: blue" id="about">About me </h1>
 
-I am interested in observational cosmology, and my recent research has been focused on using the Lyman-$$\alpha$$ forest to measure the expansion of the Universe. I'm also a member of the Dark Energy Spectroscopic Instrument (DESI) collaboration, where I'm mostly involved in the Ly$$\alpha$$ working group.
+My main field of interest is observational cosmology, and my recent research has been focused on using the Lyman-$$\alpha$$ forest to measure the expansion of the Universe. I'm also a member of the Dark Energy Spectroscopic Instrument (DESI) collaboration, where I'm mostly involved in the Ly$$\alpha$$ working group.
 
 My current focus is on using three-dimensional distribution of the Lyman-$$\alpha$$ forest from the first year of DESI data (finished data collection in June 2022) to measure Baryon Acoustic Oscillations, the Alcock-Paczynski effect and the growth rate of cosmic structure.
 

@@ -12,7 +12,7 @@ Hi, I'm Andrei, a postdoc at the Center for Cosmology and Astro-Particle Physics
 
 My main field of interest is observational cosmology, and my recent research has been focused on using the Lyman-$$\alpha$$ forest to measure the expansion of the Universe. I'm also a member of the Dark Energy Spectroscopic Instrument (DESI) collaboration, where I'm mostly involved in the Ly$$\alpha$$ working group.
 
-My current focus is on using three-dimensional distribution of the Lyman-$$\alpha$$ forest from the first year of DESI data (finished data collection in June 2022) to measure Baryon Acoustic Oscillations, the Alcock-Paczynski effect and the growth rate of cosmic structure.
+My current focus is on using the three-dimensional distribution of the Lyman-$$\alpha$$ forest from the first year of DESI data (finished data collection in June 2022) to measure Baryon Acoustic Oscillations, the Alcock-Paczynski effect and the growth rate of cosmic structure.
 
 I am originally from Baia Mare, Romania. I obtained my bachelors and masters degree from University College London (UCL) in a 4-year integrated MSci. My masters project with Andrew Pontzen focused on using N-body simulations to study reconstructions of the density field. I stayed at UCL for my PhD, where I worked with Andreu Font-Ribera and Benjamin Joachimi on constraining cosmology with large scale structure.
 

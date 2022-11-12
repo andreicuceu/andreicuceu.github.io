@@ -22,9 +22,13 @@ description: "Research Fellow at CCAPP
 logo: /assets/AndreiCuceu.jpg
 
 menu:
-  - title: ABOUT
+  - title: About
     url: /#about
-  - title: SELECTED PUBLICATIONS
+  - title: Research Interests
+    url: /#research
+  - title: Education
+    url: /#education
+  - title: Selected Publications
     url: /#publications
 
 baseurl: "" # the subpath of your site, e.g. /blog

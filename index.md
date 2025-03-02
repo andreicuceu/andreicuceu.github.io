@@ -6,7 +6,7 @@ layout: page
 ---
 
 
-Hi, I'm Andrei, a postdoc working in observational cosmology at the Center for Cosmology and Astro-Particle Physics at The Ohio State University.
+Hi, I'm Andrei, a postdoc working in observational cosmology at the Lawrence Berkeley National Laboratory.
 
 <h1 style="font-family:'Calibri Light';color: purple" id="about">About me </h1>
 
